@@ -76,7 +76,7 @@ set nojoinspaces                            " No extra space when joining a line
 set scrolloff=5                             " Scroll when closing to top or bottom of the screen
 set updatetime=1000                         " Update time used to create swap file or other things
 set suffixesadd+=.rb                        " Add ruby files to suffixes
-
+set guicursor=				    " Linux Mint compatibility
 " ----------------------------------------------------------------------------------------------------------------------
 " 2.1 Split settings (more natural)
 "
