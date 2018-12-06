@@ -69,6 +69,8 @@ POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=()
 plugins=(
   git
   ssh-agent
+  zsh-syntax-highlighting
+  zsh-autosuggestions
 )
 
 source $ZSH/oh-my-zsh.sh
